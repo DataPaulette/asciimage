@@ -8,7 +8,7 @@ DEBUG = True
 
 if len(argv) != 4: # show example usage:
     print 'Wrong number of arguments:', len(argv) - 1,  "(need 3) example usage:"
-    print "python " + argv[0] + "  text.txt  200  out.png"
+    print "python " + argv[0] + "  text.txt  200  out.jpg"
     exit(-1)
 
 # process arguments:
