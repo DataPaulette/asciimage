@@ -1,5 +1,8 @@
 ## asciimage
 
+A program that converts ASCII text to binary, and to black & white pixels.
+
+
 ### Dependencies
 
 Imagemagick:
@@ -11,5 +14,13 @@ Imagemagick:
 
 Example:
 
-    python asciimage.py text.txt  200  out.jpg
+    python asciimage.py leBreton.txt  200  binary.jpg
+
+
+## Result
+
+Binary output => knitted result:
+
+<img src="binary.png" alt="Binary result" height="200"/>
+<img src="knitted.jpg" alt="Knitted result" height="200"/>
 
